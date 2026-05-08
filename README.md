@@ -27,4 +27,8 @@ APPLICATIONS:
 5. Smart Environmental Monitoring
 6. Electronic Device Temperature Checking
 
+#OUTPUT
+
+<img width="1900" height="923" alt="Image" src="https://github.com/user-attachments/assets/9303f540-a47f-41dd-a640-b1dc98c3e88c" />
+
    
